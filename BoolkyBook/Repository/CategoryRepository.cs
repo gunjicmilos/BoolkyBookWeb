@@ -14,6 +14,6 @@ public class CategoryRepository : Repository<Category>, ICategoryRepository
 
     public void Update(Category obj)
     {
-        _db.Update(obj);
+        _db.Categories.Update(obj);
     }
 }

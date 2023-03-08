@@ -14,6 +14,6 @@ public class CompanyRepository : Repository<Company>, ICompanyRepository
 
     public void Update(Company obj)
     {
-        _db.Update(obj);
+        _db.Companies.Update(obj);
     }
 }

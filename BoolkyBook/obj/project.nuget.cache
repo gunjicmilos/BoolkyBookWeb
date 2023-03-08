@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1m7S7/GuqhE5eKMj/wBxSDpDCKHo8foBUl42jnuEBlPoZuzEbA7bI3upPx7TvwL12JGeBqcGrlmHS7FtOUkWA==",
+  "dgSpecHash": "6Iv4LkNHu8XQYym+v6F4IP4dNFQ5Q7zLqN54eIzBp1J44m5zo9Fzg8st/giaI8mED9COV4QPCd0VVMRYBU/IaQ==",
   "success": true,
   "projectFilePath": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj",
   "expectedPackageFiles": [
@@ -114,6 +114,7 @@
     "/Users/milosgunjic/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
     "/Users/milosgunjic/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/milosgunjic/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/milosgunjic/.nuget/packages/stripe.net/41.9.0-beta.1/stripe.net.41.9.0-beta.1.nupkg.sha512",
     "/Users/milosgunjic/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/Users/milosgunjic/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/milosgunjic/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",

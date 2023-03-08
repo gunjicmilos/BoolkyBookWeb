@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BoolkyBook.bundle.scp.css"
     },
     {
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/css/bootswatchTheme.css",
       "PackagePath": "staticwebassets/css/bootswatchTheme.css"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/lawn_leaf.jpg",
+      "PackagePath": "staticwebassets/images/lawn_leaf.jpg"
     },
     {
       "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/4fd3de4a-9f33-4f99-bfdc-529644cbbea5.jpeg",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MbA8nyr31N1gnZ4WBUP/RtftOd+BOk1pT9QurnHGiZg=",
+  "Hash": "f3Ul5ZVwc8623Yxd2SrAyrqXkac9Ax0p27GRu4BLRHs=",
   "Source": "BoolkyBook",
   "BasePath": "_content/BoolkyBook",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/obj/Debug/net7.0/scopedcss/projectbundle/BoolkyBook.bundle.scp.css"
     },
     {
+      "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/.DS_Store",
+      "SourceId": "BoolkyBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/",
+      "BasePath": "_content/BoolkyBook",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/css/bootswatchTheme.css",
       "SourceId": "BoolkyBook",
       "SourceType": "Discovered",
@@ -1120,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/lawn_leaf.jpg",
+      "SourceId": "BoolkyBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/",
+      "BasePath": "_content/BoolkyBook",
+      "RelativePath": "images/lawn_leaf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/lawn_leaf.jpg"
     },
     {
       "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/4fd3de4a-9f33-4f99-bfdc-529644cbbea5.jpeg",
