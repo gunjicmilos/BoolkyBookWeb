@@ -16,10 +16,18 @@ public class Repository<T> : IRepository<T> where T : class
         //_db.Products.Include(u => u.Category).Include(u=>u.CoverType);
         this.dbSet = _db.Set<T>();
     }
-    
-    public T GetFirstOrDefault(Expression<Func<T, bool>>? filter = null,string? includeProperties = null)
+
+    public T GetFirstOrDefault(Expression<Func<T, bool>>? filter = null,string? includeProperties = null,bool tracked = true)
     {
-        IQueryable<T> query = dbSet;
+        IQueryable<T> query;
+        if (tracked)
+        {
+            query = dbSet;
+        }
+        else
+        {
+            query = dbSet.AsNoTracking();
+        }
         query = query.Where(filter);
         if (includeProperties != null)
         {

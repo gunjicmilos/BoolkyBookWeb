@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f3Ul5ZVwc8623Yxd2SrAyrqXkac9Ax0p27GRu4BLRHs=",
+  "Hash": "LprVh+0fMOX6R2HD7e4hTZG8Z4W5/DpwAPsf8eHFiHU=",
   "Source": "BoolkyBook",
   "BasePath": "_content/BoolkyBook",
   "Mode": "Default",
@@ -1205,6 +1205,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/company.js"
+    },
+    {
+      "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/order.js",
+      "SourceId": "BoolkyBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/",
+      "BasePath": "_content/BoolkyBook",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/order.js"
     },
     {
       "Identity": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/product.js",
