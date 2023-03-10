@@ -3,12 +3,15 @@ using BoolkyBook.Models;
 using BoolkyBook.Models.ViewModels;
 using BoolkyBook.Repository;
 using BoolkyBook.Repository.IRepository;
+using BoolkyBook.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BoolkyBook.Controllers;
 
 [Area("Admin")]
+[Authorize(Roles = SD.Role_Admin)]
 public class CompanyController : Controller
 {
     private readonly IUnitOfWork _unitOfWork;

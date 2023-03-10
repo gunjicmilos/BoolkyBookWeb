@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using BoolkyBook.Models;
 using BoolkyBook.Models.ViewModels;
 using BoolkyBook.Repository.IRepository;
+using BoolkyBook.Utility;
 using Microsoft.AspNetCore.Authorization;
 
 namespace BoolkyBook.Controllers;
@@ -52,6 +53,9 @@ public class HomeController : Controller
         if (cartFromDb == null)
         {
             _unitOfWork.ShoppingCart.Add(shoppingCart);
+            _unitOfWork.Save();
+            HttpContext.Session.SetInt32(SD.SessionCart,
+                _unitOfWork.ShoppingCart.GetAll(u=>u.ApplicationUserId == claim.Value).ToList().Count);
         }
         else
         {
