@@ -1,311 +1,311 @@
 {
   "Files": [
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/obj/Debug/net7.0/scopedcss/projectbundle/BoolkyBook.bundle.scp.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/obj/Debug/net7.0/scopedcss/projectbundle/BoolkyBook.bundle.scp.css",
       "PackagePath": "staticwebassets/BoolkyBook.bundle.scp.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/.DS_Store",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/css/bootswatchTheme.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/css/bootswatchTheme.css",
       "PackagePath": "staticwebassets/css/bootswatchTheme.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/css/site.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/favicon.ico",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/lawn_leaf.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/lawn_leaf.jpg",
       "PackagePath": "staticwebassets/images/lawn_leaf.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/0b715ca0-3eff-42f3-b3c1-bb335eb54f28.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/0b715ca0-3eff-42f3-b3c1-bb335eb54f28.jpg",
       "PackagePath": "staticwebassets/images/products/0b715ca0-3eff-42f3-b3c1-bb335eb54f28.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/158b3109-8cc5-4b25-bd8d-896cadb8af12.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/158b3109-8cc5-4b25-bd8d-896cadb8af12.jpg",
       "PackagePath": "staticwebassets/images/products/158b3109-8cc5-4b25-bd8d-896cadb8af12.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/16ad895a-92c4-44aa-af5b-1539f2ac0371.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/16ad895a-92c4-44aa-af5b-1539f2ac0371.jpg",
       "PackagePath": "staticwebassets/images/products/16ad895a-92c4-44aa-af5b-1539f2ac0371.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/28ea3f09-9006-4c0a-80c2-4b68ffdcf48c.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/28ea3f09-9006-4c0a-80c2-4b68ffdcf48c.jpg",
       "PackagePath": "staticwebassets/images/products/28ea3f09-9006-4c0a-80c2-4b68ffdcf48c.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/39867260-64ea-4cc9-9fa2-f0db9e25126a.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/39867260-64ea-4cc9-9fa2-f0db9e25126a.jpg",
       "PackagePath": "staticwebassets/images/products/39867260-64ea-4cc9-9fa2-f0db9e25126a.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/4fd3de4a-9f33-4f99-bfdc-529644cbbea5.jpeg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/4fd3de4a-9f33-4f99-bfdc-529644cbbea5.jpeg",
       "PackagePath": "staticwebassets/images/products/4fd3de4a-9f33-4f99-bfdc-529644cbbea5.jpeg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/63936c6f-0a32-4dad-93fe-9ccd1ee30af7.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/63936c6f-0a32-4dad-93fe-9ccd1ee30af7.jpg",
       "PackagePath": "staticwebassets/images/products/63936c6f-0a32-4dad-93fe-9ccd1ee30af7.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/a3047a27-16b8-484c-95a1-bf9a37c165d3.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/a3047a27-16b8-484c-95a1-bf9a37c165d3.jpg",
       "PackagePath": "staticwebassets/images/products/a3047a27-16b8-484c-95a1-bf9a37c165d3.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/f1605f43-8583-4e3d-96ed-cf01c1c63d34.jpeg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/f1605f43-8583-4e3d-96ed-cf01c1c63d34.jpeg",
       "PackagePath": "staticwebassets/images/products/f1605f43-8583-4e3d-96ed-cf01c1c63d34.jpeg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/fcd58b47-f5dc-45f5-b8f0-f3567ee1b91c.jpg",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/images/products/fcd58b47-f5dc-45f5-b8f0-f3567ee1b91c.jpg",
       "PackagePath": "staticwebassets/images/products/fcd58b47-f5dc-45f5-b8f0-f3567ee1b91c.jpg"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/company.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/js/company.js",
       "PackagePath": "staticwebassets/js/company.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/order.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/js/order.js",
       "PackagePath": "staticwebassets/js/order.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/product.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/js/product.js",
       "PackagePath": "staticwebassets/js/product.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/js/site.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

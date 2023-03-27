@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj": {}
+    "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj": {}
   },
   "projects": {
-    "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj": {
+    "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj",
+        "projectUniqueName": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj",
         "projectName": "BoolkyBook",
-        "projectPath": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj",
+        "projectPath": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/BoolkyBook.csproj",
         "packagesPath": "/Users/milosgunjic/.nuget/packages/",
-        "outputPath": "/Users/milosgunjic/Desktop/Projects/BoolkyBookWeb/BoolkyBook/obj/",
+        "outputPath": "/Users/milosgunjic/Desktop/Projects/BoolkyBook/BoolkyBookWeb/BoolkyBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/milosgunjic/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,10 @@
             "MailKit": {
               "target": "Package",
               "version": "[3.6.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",

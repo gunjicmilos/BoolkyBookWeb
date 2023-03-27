@@ -19,8 +19,12 @@ builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Str
 builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
-builder.Services.AddSingleton<IEmailSender,EmailSender>();
-
+builder.Services.AddSingleton<IEmailSender,MyEmailSender>();
+builder.Services.AddAuthentication().AddFacebook(options =>
+{
+    options.AppId = "750062413145454";
+    options.AppSecret = "be12dd01f2d7e206eab2e2f08bae969c";
+});
 builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = $"/Identity/Account/Login";

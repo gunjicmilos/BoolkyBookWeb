@@ -9,6 +9,7 @@
       "BoolkyBook/1.0.0": {
         "dependencies": {
           "MailKit": "3.6.0",
+          "Microsoft.AspNetCore.Authentication.Facebook": "7.0.3",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.3",
           "Microsoft.AspNetCore.Identity.UI": "7.0.3",
           "Microsoft.EntityFrameworkCore": "7.0.3",
@@ -74,6 +75,14 @@
           "lib/net6.0/MailKit.dll": {
             "assemblyVersion": "3.6.0.0",
             "fileVersion": "3.6.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Facebook/7.0.3": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "7.0.3.0",
+            "fileVersion": "7.0.323.8009"
           }
         }
       },
@@ -2633,6 +2642,13 @@
       "sha512": "sha512-P7sL/bWj6girXBYlmZmCQnS6Y0DHMe947iiH+Dzl3vlJJiFUcnhxJei/gnrIARuaFUpPoYoFjVqguHwOT4Myzg==",
       "path": "mailkit/3.6.0",
       "hashPath": "mailkit.3.6.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Facebook/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DUe+mD1AyF5XNPuwQTt5VDqqV29RSPE+qhCAsze8rzZgOegU5bYVmiOPS+6cLaZ8kjOEkvXz2Rxbo476hgonRw==",
+      "path": "microsoft.aspnetcore.authentication.facebook/7.0.3",
+      "hashPath": "microsoft.aspnetcore.authentication.facebook.7.0.3.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.3": {
       "type": "package",
