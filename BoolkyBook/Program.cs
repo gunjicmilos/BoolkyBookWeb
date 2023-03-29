@@ -1,4 +1,5 @@
 using BoolkyBook.Data;
+using BoolkyBook.Data.DbInitializer;
 using BoolkyBook.Models;
 using BoolkyBook.Repository;
 using BoolkyBook.Repository.IRepository;
@@ -19,11 +20,12 @@ builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Str
 builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 builder.Services.AddSingleton<IEmailSender,MyEmailSender>();
 builder.Services.AddAuthentication().AddFacebook(options =>
 {
-    options.AppId = "750062413145454";
-    options.AppSecret = "be12dd01f2d7e206eab2e2f08bae969c";
+    options.AppId = "1190522288494295";
+    options.AppSecret = "a344d773d3b0b05db80e4cf61343b5ec";
 });
 builder.Services.ConfigureApplicationCookie(options =>
 {
@@ -56,7 +58,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
-
+SeedDatabase();
+app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession();
 app.MapRazorPages();
@@ -65,3 +68,12 @@ app.MapControllerRoute(
     pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+void SeedDatabase()
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var dbInitializer = scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+        dbInitializer.Initialize();
+    }
+}

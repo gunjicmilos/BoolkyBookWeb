@@ -23,7 +23,9 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties:"Category,CoverType");
+        IEnumerable<Product> productList = _unitOfWork.Product
+            .GetAll(includeProperties:"Category,CoverType")
+            .OrderBy(product => product.Title);
         return View(productList);
     }
 

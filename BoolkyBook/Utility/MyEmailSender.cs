@@ -6,17 +6,8 @@ namespace BoolkyBook.Utility;
 
 public class MyEmailSender : IEmailSender
 {
-    private readonly ILogger _logger;
-
-    public MyEmailSender(ILogger<MyEmailSender> logger)
-    {
-        _logger = logger;
-    }
-
     public Task SendEmailAsync(string email, string subject, string message)
     {
-        _logger.LogInformation($"Sending email to {email}");
-        // Add your email sending logic here
         return Task.CompletedTask;
     }
 }

@@ -113,10 +113,13 @@ namespace BoolkyBook.Areas.Identity.Pages.Account
             //Properties from application user
             [Required]
             public string Name { get; set; }
+            [Display(Name = "Street Address")]
             public string? StreetAddress { get; set; }
             public string? City { get; set; }
             public string? State { get; set; }
+            [Display(Name = "Postal Code")]
             public string? PostalCode { get; set; }
+            [Display(Name = "Phone Number")]
             public string? PhoneNumber { get; set; }
             public string? Role { get; set; }
             public int CompanyId { get; set; }
@@ -129,13 +132,14 @@ namespace BoolkyBook.Areas.Identity.Pages.Account
 
         public async Task OnGetAsync(string returnUrl = null)
         {
-            if (!_roleManager.RoleExistsAsync((SD.Role_Admin)).GetAwaiter().GetResult())
+            /*if (!_roleManager.RoleExistsAsync((SD.Role_Admin)).GetAwaiter().GetResult())
             {
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Employee)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Comp)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Indi)).GetAwaiter().GetResult();
-            }
+            }*/
+            
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             Input = new InputModel()
@@ -158,7 +162,7 @@ namespace BoolkyBook.Areas.Identity.Pages.Account
             returnUrl ??= Url.Content("~/");
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
-            {
+            {   
                 var user = CreateUser();
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
@@ -207,7 +211,13 @@ namespace BoolkyBook.Areas.Identity.Pages.Account
                     }
                     else
                     {
-                        await _signInManager.SignInAsync(user, isPersistent: false);
+                        if(User.IsInRole(SD.Role_Admin)){
+                            TempData["success"] = "New User Created Sussceffuly";
+                        }
+                        else
+                        {
+                            await _signInManager.SignInAsync(user, isPersistent: false);
+                        }
                         return LocalRedirect(returnUrl);
                     }
                 }
