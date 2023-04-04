@@ -23,8 +23,9 @@ There are two sides of app usings (as an customer and as an admin or employee) a
     <img
       src="https://github.com/gunjicmilos/BoolkyBookWeb/blob/master/BoolkyBook/wwwroot/images/Screenshot%202023-04-04%20at%2012.21.43.png"
       width="65%" />
-    <p>As an employee or admin role you can manage (CRUD operations) products, categories, covertypes, companies,
-      manage orders (payment status, ordes status).</p>
+  <p style="margin-top: 20px">As an employee or admin role you can manage (CRUD operations) products, categories, covertypes, companies,
+      manage orders (payment status, ordes status).
+</p>
     <hr class="solid">
     <h3>Logging as an Admin</h3>
     <p>Username: admin@gmail.com</p>
