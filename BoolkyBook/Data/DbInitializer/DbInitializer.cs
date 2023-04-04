@@ -46,15 +46,15 @@ public class DbInitializer : IDbInitializer
 
             _userManager.CreateAsync(new ApplicationUser
             {
-                UserName = "admin@gmail.com",
-                Email = "admin@gmail.com",
+                UserName = "admin@boolky.com",
+                Email = "admin@boolky.com",
                 Name = "Admin",
                 PhoneNumber = "1112223333",
                 StreetAddress = "test 123 Ave",
                 State = "SRB",
                 PostalCode = "23422",
                 City = "Beograd"
-            }, "Nemamsifru.99").GetAwaiter().GetResult();
+            }, "Admin.123").GetAwaiter().GetResult();
 
             ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@boolky.com");
 
