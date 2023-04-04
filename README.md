@@ -2,7 +2,7 @@
 
 Hello, i made web app projact for book web shop.
 
-Tech Stach: .NET Core, C#, HTML, CSS, MVC, Microsoft Identity, Sqlite
+Tech Stack: .NET Core, C#, HTML, CSS, MVC, Microsoft Identity, Sqlite
 
 I posted a video on youtube about my web app on this link: https://www.youtube.com/watch?v=9aP17hIUuqs
 
