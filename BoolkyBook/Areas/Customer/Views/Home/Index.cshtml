@@ -4,7 +4,7 @@
     @foreach (var product in Model)
     {
         <div class="col-lg-3 col-md-6">
-            <div class="row p-2">
+            <div class="row p-2 mb-lg-5">
                 <div class="col-12 p-1" style="border: 1px solid #008cba; border-radius: 5px">
                     <div class="card">
                         <img src="@product.ImageUrl" style="height: 420.88px;" class="card-img-top rounded"/>
@@ -22,7 +22,7 @@
                         </div>
                     </div>
                     <div>
-                        <a asp-action="Details" class="btn btn-primary form-control" asp-route-productId="@product.Id">
+                        <a asp-action="Details" class="btn btn-primary btn-lg form-control" asp-route-productId="@product.Id">
                             Details
                         </a>
                     </div>
@@ -30,4 +30,22 @@
             </div>
         </div>
     }
+</div>
+<div class="px-4 py-5 my-5 text-center mb-0" >
+	<h1 class="display-5 fw-bold text-body-emphasis">MyBookStore</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Hello friends, this is my portfolio WebApp for selling books. I published source code to the github and you can acces it via GitHub Button. Also i uploaded videos on YouTube where i explained my Web App usage and functionalities!</p>
+        <br/>
+        <p align="center" dir="auto"> <a href="https://azure.microsoft.com/en-in/" rel="nofollow"> <img src="https://camo.githubusercontent.com/6df31a460cb0c38f960e92812c8b6f8bce4c7f13170fb4782f0b31ab8e792ac2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6963726f736f66745f617a7572652f6d6963726f736f66745f617a7572652d69636f6e2e737667" alt="azure" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="max-width: 100%;"> </a> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> </p>
+        <br/>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a class="btn btn-primary btn-lg px-4 gap-3" href="https://github.com/gunjicmilos/BoolkyBookWeb" 
+               target="_blank" style="text-decoration: none">GitHub &nbsp;<i style="font-size:24px" class="fa">&#xf09b;</i></a>
+            <a class="btn btn-primary btn-lg px-4 gap-3" href="https://www.youtube.com/channel/UC9xiJMiLEdX6a2FYske5Ofg" 
+               target="_blank" style="text-decoration: none; background-color: red; color:white">YouTube &nbsp;<i class="bi bi-youtube"></i></a>
+        </div>
+        <br/>
+        <br/>
+        <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:gunjicm.milos99@gmail.com">gunjicm.milos99@gmail.com</a></strong></p>
+    </div>
 </div>
